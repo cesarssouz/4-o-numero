@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif; /* 1. Fonte aplicada ao corpo e a todos os elementos */
+    background-color: #f3f3f3; /* 2. Cor de fundo do corpo */
+}
+
+.title {
+    color: #333; /* 3. Cor do título da notícia */
+    font-size: 24px; /* 3. Tamanho do título da notícia */
+}
+
+.author {
+    color: #666; /* 4. Cor do autor da notícia */
+    font-size: 14px; /* 4. Tamanho do autor da notícia */
+}
+
+.content {
+    color: #444; /* 5. Cor do conteúdo da notícia */
+    font-size: 16px; /* 5. Tamanho do conteúdo da notícia */
+}
+
+.image {
+    width: 100%; /* 6. Largura da imagem */
+}
+
+body {
+    margin: 20px auto; /* 7. Margem e centralização da div container */
+    max-width: 800px; /* 7. Largura máxima da div container */
+    background-color: #fff; /* 8. Cor de fundo da div container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 9. Sombra da div container */
+    padding: 20px; /* Adicionado para espaçamento interno */
+}

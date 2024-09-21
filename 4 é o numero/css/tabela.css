@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td{
+    border: 1px solid #000;
+}
+td, th{
+    padding: 2vh;
+    text-align: center;
+    font-size: 20px;
+}
+th{
+    background-color: #000;
+    color: aliceblue;
+    
+}tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+body{
+    font-family:arial, sans-serif;
+}
